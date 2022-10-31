@@ -1,0 +1,15 @@
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\bin\Debug\net6.0\Task3_While.exe
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\bin\Debug\net6.0\Task3_While.deps.json
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\bin\Debug\net6.0\Task3_While.runtimeconfig.json
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\bin\Debug\net6.0\Task3_While.dll
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\bin\Debug\net6.0\Task3_While.pdb
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.csproj.AssemblyReference.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.AssemblyInfoInputs.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.AssemblyInfo.cs
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.csproj.CoreCompileInputs.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.dll
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\refint\Task3_While.dll
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.pdb
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\Task3_While.genruntimeconfig.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task3_While\obj\Debug\net6.0\ref\Task3_While.dll

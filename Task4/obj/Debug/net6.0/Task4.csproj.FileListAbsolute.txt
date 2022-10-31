@@ -1,0 +1,15 @@
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\bin\Debug\net6.0\Task4.exe
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\bin\Debug\net6.0\Task4.deps.json
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\bin\Debug\net6.0\Task4.dll
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\bin\Debug\net6.0\Task4.pdb
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.dll
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\refint\Task4.dll
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.pdb
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+D:\1.Learning\2.Developer\4.С#\WorkShop\WS1\Task4\obj\Debug\net6.0\ref\Task4.dll
